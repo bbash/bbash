@@ -7,6 +7,7 @@ Researcher
 I have a keen interest in Artificial Intelligence, with a specific focus on the application of Deep Learning in the analysis of medical images and Natural Language Processing. Additionally, I am particularly intrigued by Text Summarization in low-resource languages, with a specific emphasis on the Hausa language.
 
 *   🌍  I'm based in Kano, Nigeria
+*   🖥️  See my portfolio at [Google Scholar](http://https://scholar.google.com/citations?user=weI8ctoAAAAJ&hl=en)
 *   ✉️  You can contact me at [bsalisu2016@gmail.com](mailto:bsalisu2016@gmail.com)
 *   🤝  I'm open to collaborating on Medical Image Processing and Natural Language Processing (Low Resources)
 *   ⚡  I like coding<a href="https://www.github.com/bbash" target="_blank" rel="noreferrer">
